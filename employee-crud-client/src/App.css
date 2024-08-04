@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  form div {
+    margin-bottom: 1em;
+  }
+  
+  label {
+    margin-bottom: 0.5em;
+  }
+  
+  input, select, button {
+    padding: 0.5em;
+    margin-top: 0.5em;
+  }
+  
